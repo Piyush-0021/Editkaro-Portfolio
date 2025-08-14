@@ -1,4 +1,4 @@
-#EditKaro ✏️ – Online Text & Image Editing Tool
+# EditKaro ✏️ – Online Text & Image Editing Tool
 
 Live Demo: https://editkaro21.netlify.app
 
